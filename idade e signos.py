@@ -33,3 +33,4 @@ signo = qualseu_signo(dia, mes)
 idade = (2023 -ano)
 
 print('Você tem',idade,'anos e seu signo é', signo)
+input("Pressione Enter para sair da tela ...")
